@@ -1,0 +1,40 @@
+:root {
+  --color-background: rgb(17, 17, 17);
+  --color-text: white;
+}
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+header a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+header,
+main {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 780px;
+}
+header {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+header h1 {
+  font-weight: 900;
+}
+header ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+header ul .navlink[aria-current="page"] {
+  text-decoration: underline !important;
+}
