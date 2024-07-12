@@ -1,10 +1,9 @@
 :root {
-  --color-background: rgb(17, 17, 17);
-  --color-text: white;
+  --color-background: white;
+  --color-text: rgb(17, 17, 17);
 }
 body {
-  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   color: var(--color-text);
   background-color: var(--color-background);
 }

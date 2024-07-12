@@ -1,6 +1,8 @@
 ---
 title: Diego Calvo Castillo
-layout: "base.html"
+layout: "home.html"
 ---
 
-Hola muy buenas
+# Hola gente! 👋
+
+Bienvenidxs a mi blog personal, en el iré escribiendo lo que me apetezca.

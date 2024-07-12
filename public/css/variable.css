@@ -1,0 +1,9 @@
+:root {
+  --accent: #d9cb00;
+  --background: #fffffe;
+  --color: rgb(41, 41, 41);
+  --color-80: rgba(41, 41, 41, 0.8);
+  --color-30: rgba(41, 41, 41, 0.3);
+  --color-10: rgba(41, 41, 41, 0.1);
+  --readableWidth: 48.75rem;
+}
