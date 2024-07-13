@@ -1,8 +1,6 @@
 .header {
   max-width: none;
   width: 100%;
-  text-transform: capitalize;
-  text-transform: uppercase;
   margin-bottom: 4rem;
 }
 
@@ -15,7 +13,6 @@
   margin-right: auto;
   max-width: var(--readableWidth);
   padding: 1rem;
-  margin-top: 1rem;
   border-bottom: 1px solid rgba(230, 230, 230, 1);
 }
 

@@ -3,4 +3,4 @@ title: Diego Calvo Castillo
 layout: "about.html"
 ---
 
-Mi nombre es Diego Calvo Castillo, soy desarrollador de software desde 2017, centrando mi actividad en la creación de sistemas basados en web. Mi background es científico/tecnológico, habiendo estudiado Física en la Universidad de Córdoba.
+I am a Software Engineer living in Seville, Spain. As the CTO of Enreda Coop, I lead projects focused on Open Data and Citizen Participation.

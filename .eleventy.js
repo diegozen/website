@@ -6,7 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addFilter("formattedDate", function (value) {
     const date = new Date(value);
-    return date.toLocaleDateString("es-ES", {
+    return date.toLocaleDateString("en-EN", {
       year: "numeric",
       month: "long",
       day: "numeric",

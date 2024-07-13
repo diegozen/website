@@ -3,6 +3,8 @@ title: Diego Calvo Castillo
 layout: "home.html"
 ---
 
-# Hola gente! 👋
+# Hey there,
 
-Bienvenidxs a mi blog personal, en el iré escribiendo lo que me apetezca.
+My name is Diego Calvo, and this is my blog.
+
+Here you will find reports of my personal and professional projects as well as relevant information of my inmersions in different topics.
